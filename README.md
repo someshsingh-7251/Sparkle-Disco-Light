@@ -10,10 +10,6 @@ FEATURES
 3. Responsive Design: Works seamlessly on different screen sizes, from desktops to mobile devices.
 4. Easy to Integrate: Simple to embed in any website or web application.
 
-DEMO
-
-Check out the live demo here.
-
 INSTALLATION
 
   Prerequisites
