@@ -1,4 +1,4 @@
-## Sparkle Disco Light
+# Sparkle Disco Light
               
 ## Overview
 
@@ -69,5 +69,6 @@ This README file contains links to resources that might include affiliate links,
 
 Happy coding! 🎉
 
-## Note:
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
